@@ -7,7 +7,7 @@ It is hoped that our HRANet will be the perfect substitution for other widely-us
 
 ## News
 
-- Open source of our work is scheduled after the paper publication, so be sure to stay tuned!
+- ***Open source***: Coming soon, so be sure to stay tuned!
 - Part of our experimental results are demonstrated below:
 
 #### Comparison with [HRNet](https://github.com/HRNet/HRNet-Human-Pose-Estimation) and [HRFormer](https://github.com/HRNet/HRFormer) using bounding boxes from a human detector on the COCO `val2017` dataset
