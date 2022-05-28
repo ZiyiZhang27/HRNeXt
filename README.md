@@ -3,7 +3,7 @@
 ## Introduction
 This is an official repository of our paper ***High-Resolution Attention Network: A Novel Backbone for Top-Down Crowd Pose Estimation*** (submitted to *IEEE Transactions on Multimedia*). In this work, we present a novel network backbone High-Resolution Attention Network (HRANet) that learns high-resolution representations with abundant contextual information for top-down crowd pose estimation. Experimental results show that our novel backbone HRANet significantly outperforms state-of-the-art network backbones on not only COCO2017 dataset but also on other challenging pose estimation datasets with high occurrence of crowds and occlusions. 
 
-It is hoped that our HRANet will be the perfect substitution for other widely-used backbone networks (e.g. [HRNet](https://github.com/HRNet/HRNet-Human-Pose-Estimation), [HRFormer](https://github.com/HRNet/HRFormer), etc.) on dense prediction tasks, since our backbone can achieve much better performance in terms of trade-off between accuracy and computational complexity.
+It is hoped that our HRANet will be a perfect substitute for other widely-used backbone networks (e.g. [HRNet](https://github.com/HRNet/HRNet-Human-Pose-Estimation), [HRFormer](https://github.com/HRNet/HRFormer), etc.) on dense prediction tasks, since our backbone can achieve much better performance in terms of trade-off between accuracy and computational complexity.
 
 ## News
 
