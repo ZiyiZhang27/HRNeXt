@@ -44,4 +44,4 @@ It is hoped that our HRANet will be a perfect substitute for other widely-used b
 
 Benefiting from the superb context modeling ability, our HRNeXt can detect more keypoints and better estimate poses of occluded human bodies.
 
-![pose_results](.\resources\pose_results.png)
+![pose_results](./resources/pose_results.png)
