@@ -1,0 +1,17 @@
+chumpy
+dataclasses; python_version == '3.7'
+json_tricks
+matplotlib
+munkres
+numpy
+opencv-python
+pillow
+scipy
+pandas
+torchvision
+xtcocotools>=1.6
+future
+tensorboard
+mmpose==0.23.0
+einops
+timm
